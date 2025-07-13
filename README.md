@@ -6,7 +6,7 @@ AI application inspiration house: collect AI-related information to inspire AI a
 [Suna - Open Source Generalist AI Agent](https://github.com/kortix-ai/suna)  
 [Scribehow - Automatically create how-to guides for any web or desktop based process.](https://scribehow.com)  
 [Immersity AI - Convert Image and Video to 3D](https://www.immersity.ai)  
-[MonkeyOCR: Document Parsing with a Structure-Recognition-Relation Triplet Paradigm](MonkeyOCR: Document Parsing with a Structure-Recognition-Relation Triplet Paradigm)  
+[MonkeyOCR: Document Parsing with a Structure-Recognition-Relation Triplet Paradigm](https://github.com/Yuliang-Liu/MonkeyOCR)  
 [Kira (Short Film on Human Cloning)](https://www.youtube.com/watch?v=gx8rMzlG29Q)  
 [Generalist - At Generalist, we are on a mission to make general-purpose robots a reality.](https://generalistai.com)  
 [AutoGLM - AutoGLM contemplation is an autonomous agent (AI Agent) that can explore open-ended problems and perform actions based on the results](https://autoglm-research.zhipuai.cn)  
